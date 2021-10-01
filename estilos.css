@@ -146,7 +146,7 @@ header nav a.activo {
 .container {
   display: flex;
   width: 100%;
-  height: 100vh;
+  height: 85vh;
   justify-content: center;
   align-items: center;
 }
@@ -193,6 +193,7 @@ button {
   cursor: pointer;
   transition: all 300ms;
 }
+
 button:hover {
   transform: scale(1.05);
 }
